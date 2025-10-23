@@ -13,6 +13,9 @@ libdeps/
 .env
 .env.*
 
+# Secrets and private configuration
+include/secrets.h
+
 # VS Code - ignore all workspace settings / caches created by the extension
 .vscode/
 
